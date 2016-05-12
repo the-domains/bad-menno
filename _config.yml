@@ -1,0 +1,28 @@
+name: Bad Menno
+favicon: null
+layout_spectrum: 0.059093870455399156
+typography_spectrum: 0.39483996224589646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.917016381630674
+  lightness: 0.7528790256474167
+  saturation: 0.47408713423646986
+  rhythmicContrast: 0.7850991983432323
+purpose: []
