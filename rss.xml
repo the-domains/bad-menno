@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bad Menno]]></title>
+        <description><![CDATA[Bad Menno]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 17:07:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Key to Understanding Revelation]]></title>
+            <description><![CDATA[<h1>The Key to Understanding Revelation</h1>]]></description>
+            <link>undefinedthe-key-to-understanding-revelation/index.html</link>
+            <guid isPermaLink="false">e97246d1-52f0-4157-935e-b9b2c39c4177</guid>
+            <pubDate>Thu, 12 May 2016 17:07:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
